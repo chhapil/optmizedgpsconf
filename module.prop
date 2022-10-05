@@ -1,7 +1,7 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
+id=optmizedgpsconf
+name=Global Optimized GPS File Replacer
 version=v2.0
 versionCode=10
-author=Zackptg5
-description=Magisk Module Template Extended
-updateJson=https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/update.json
+author=Chhapil
+description=This module replaces the default gps.conf file with a new one correctly edited for a better improvement and faster locking.
+updateJson=https://raw.githubusercontent.com/chhapil/optmizedgpsconf/master/update.json
